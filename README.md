@@ -1,5 +1,5 @@
-### Hola! I am Gud-will
-<br></br>
+#### Hola! I am Gud-will
+
 ```python
 name="Sai Adhithya S"
 age=18
@@ -18,4 +18,4 @@ goalsfor2022="Learn more about Flutter,python and react"
 
 ## Skills
 [![Gud-will's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gud-will&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gud-will&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
