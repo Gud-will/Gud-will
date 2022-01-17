@@ -5,6 +5,7 @@ name="Sai Adhithya S"
 age=18
 education="Bsc(Mathematics,Computer Science and Statistics)"
 goalsfor2022="Learn more about Flutter,python and react"
+fav_quote="Your solution is never the best and there is always a better and easier solution available"
 ```
 
 ## Languages
