@@ -2,7 +2,7 @@
 
 ```python
 name="Sai Adhithya S"
-age=18
+age=19
 education="Bsc(Mathematics,Computer Science and Statistics)"
 goalsfor2022="Learn more about Flutter,python and react"
 fav_quote="Your solution is never the best and there is always a better and easier solution available"
