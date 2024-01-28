@@ -2,9 +2,9 @@
 
 ```python
 name="Sai Adhithya S"
-age=19
-education="Bsc(Mathematics,Computer Science and Statistics)"
-goalsfor2022="Learn more about Flutter,python and react"
+age=20
+currently_pursuing="M.Sc in Data Science"
+goalsfor2024="To Explore Deep learning and Reinforcement Learning"
 fav_quote="Your solution is never the best and there is always a better and easier solution available"
 ```
 
