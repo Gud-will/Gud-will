@@ -2,9 +2,9 @@
 
 ```python
 name="Sai Adhithya S"
-age=20
-currently_pursuing="M.Sc in Data Science"
-goalsfor2024="To Explore Deep learning and Reinforcement Learning"
+age=22
+Highest Qualification="M.Sc in Data Science"
+goalsfor2025 = "To explore the worl of Gans and LLM's"
 fav_quote="Your solution is never the best and there is always a better and easier solution available"
 ```
 
